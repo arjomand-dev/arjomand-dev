@@ -1,18 +1,27 @@
-## Hi there 👋
+# About Me 👋
+I'm a Mid-level Web Developer and currently focusing on the back-end and learning Laravel. [My old account](https://github.com/mohammadali-arjomand)
 
-<!--
-**arjomand-dev/arjomand-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Programming Skills
+<!--![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,javascript,vue,php,laravel&theme=light)-->
+```json
+{
+  "JavaScript": [
+    "VueJs",
+    "ReactJs",
+    "SinglightJs"
+  ],
+  "PHP": [
+    "Laravel"
+  ],
+  "Python": []
+}
+```
 
-Here are some ideas to get you started:
+## My GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=arjomand-dev&show_icons=true&theme=react)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjomand-dev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-My old account: [click](https://github.com/mohammadali-arjomand)
+
+## Give Me a Coffee
+<a href="https://www.coffeebede.com/mohammadali-arjomand"><img class="img-fluid" height="70px" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
